@@ -13,7 +13,9 @@ import com.example.garorasu.metro.R;
  * Created by garorasu on 20/11/16.
  */
 public class BlueLineRecyclerAdapter extends RecyclerView.Adapter<BlueLineRecyclerAdapter.ViewHolder> {
-    private String[] mBlueLineStationList = {"Bus Stand","Camp Chowk","Nagori Gate","Red Light"};
+    private String[] mBlueLineStationList = {"GJU Gate","Auto Market","Bus Stand","Nagori Gate",
+            "Aggarsain Bhawan","Rani Laxmi Bai Chowk","Fawara Chowk","Camp Chowk","Town Park",
+            "Dabra Chowk","Metropolis Mall","Satrod Khas"};
 
 
     @Override

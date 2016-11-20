@@ -13,7 +13,7 @@ import com.example.garorasu.metro.R;
  * Created by garorasu on 20/11/16.
  */
 public class RedLineRecyclerAdapter extends RecyclerView.Adapter<RedLineRecyclerAdapter.ViewHolder> {
-    private String[] mRedLineStationList = {"Bus Stand","Camp Chowk","Nagori Gate","Red Light"};
+    private String[] mRedLineStationList = {"Fawara Chowk","Govt PG College","HAU Gate No 4","Mini Secretariat","Azad Nager"};
 
 
     @Override

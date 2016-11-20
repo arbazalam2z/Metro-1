@@ -13,7 +13,8 @@ import com.example.garorasu.metro.R;
  * Created by garorasu on 20/11/16.
  */
 public class YellowLineRecyclerAdapter extends RecyclerView.Adapter<YellowLineRecyclerAdapter.ViewHolder> {
-    private String[] mYellowLineStationList = {"Bus Stand","Camp Chowk","Nagori Gate","Red Light"};
+    private String[] mYellowLineStationList = {"Auto Market","Parav Chowk","Jahaj Pul","Sabji Mandi Chowk",
+            "Railway Station","Rani Laxmi Bai Chowk"};
 
 
     @Override
