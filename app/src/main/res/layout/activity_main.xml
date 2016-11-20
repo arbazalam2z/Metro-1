@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    tools:context="com.example.garorasu.metro.MainActivity">
+    <include layout="@layout/card_slips_search"/>
+    <include layout="@layout/card_slips_station"/>
+    <include layout="@layout/card_slip_nearest_station"/>
+</LinearLayout>
